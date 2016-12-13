@@ -1,0 +1,1352 @@
+RIL501 False 892.908567189
+174.40501141
+# of Iterations =  6 738.534603812 738.304284221 174.33501141
+                   Inlet Node    Outlet Node
+               [     R501     ] [    R7A22     ]
+Pressure               0.8800         0.8699
+Temperature          174.4050       174.3350
+Mass Flow             65.4588        65.4588
+Diameter               0.2540         0.2540
+Velocity               1.4468         1.4468
+Reynolds Number   2110207.1624
+Enthalpy             738.5346       738.2269
+SpecificExergy       121.5203       121.4165
+Exergy (kW)         7954.5735      7947.7798
+
+Pipeline Section
+Length                    65.0000
+Total F_Loss              11.3305
+  Skin Friction            3.7636
+  Fittings Loss            7.5669
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -230.3196
+gdz                        0.0000
+udu                        0.0000
+Total Loss               241.6501
+
+
+RIL502 False 892.908567189
+174.40501141
+# of Iterations =  5 738.534603812 738.32939821 174.34501141
+                   Inlet Node    Outlet Node
+               [     R502     ] [    R7A22     ]
+Pressure               0.8800         0.8673
+Temperature          174.4050       174.3450
+Mass Flow             73.4700       138.9288
+Diameter               0.2540         0.2540
+Velocity               1.6238         1.6238
+Reynolds Number   2368463.8493
+Enthalpy             738.5346       738.2709
+SpecificExergy       121.5203       121.4313
+Exergy (kW)         8928.0902     16870.3043
+
+Pipeline Section
+Length                    65.0000
+Total F_Loss              14.2548
+  Skin Friction            4.7225
+  Fittings Loss            9.5323
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -205.2056
+gdz                        0.0000
+udu                        0.0000
+Total Loss               219.4604
+
+
+RIL503 False 892.908567189
+174.40501141
+# of Iterations =  7 738.534603812 738.257957672 174.32501141
+                   Inlet Node    Outlet Node
+               [     R503     ] [    R7A22     ]
+Pressure               0.8800         0.8730
+Temperature          174.4050       174.3250
+Mass Flow             54.4972       193.4260
+Diameter               0.2540         0.2540
+Velocity               1.2045         1.2045
+Reynolds Number   1756836.5478
+Enthalpy             738.5346       738.1830
+SpecificExergy       121.5203       121.4017
+Exergy (kW)         6622.5183     23482.2399
+
+Pipeline Section
+Length                    65.0000
+Total F_Loss               7.8719
+  Skin Friction            2.6271
+  Fittings Loss            5.2448
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -276.6461
+gdz                        0.0000
+udu                        0.0000
+Total Loss               284.5180
+
+
+RIL504 False 892.908567189
+174.40501141
+# of Iterations =  3 738.534603812 738.422974475 174.36501141
+                   Inlet Node    Outlet Node
+               [     R504     ] [    R7A23     ]
+Pressure               0.8800         0.8501
+Temperature          174.4050       174.3650
+Mass Flow            124.6690       124.6690
+Diameter               0.2540         0.6096
+Velocity               2.7555         0.4784
+Reynolds Number   4018976.9968
+Enthalpy             738.5346       738.3588
+SpecificExergy       121.5203       121.4610
+Exergy (kW)        15149.8149     15142.4207
+
+Pipeline Section
+Length                    60.0000
+Total F_Loss              37.1501
+  Skin Friction           12.3741
+  Fittings Loss           21.6388
+  Expansion                3.1372
+  Contraction              0.0000
+Heat Loss (J/kg)        -111.6293
+gdz                        0.0000
+udu                        3.6819
+Total Loss               152.4613
+
+
+RIL505 False 892.908567189
+174.40501141
+# of Iterations =  4 738.534603812 738.371181794 174.35501141
+                   Inlet Node    Outlet Node
+               [     R505     ] [    R7A23     ]
+Pressure               0.8800         0.8660
+Temperature          174.4050       174.3550
+Mass Flow             85.1582       209.8272
+Diameter               0.2540         0.6096
+Velocity               1.8822         0.3268
+Reynolds Number   2745258.8409
+Enthalpy             738.5346       738.3148
+SpecificExergy       121.5203       121.4462
+Exergy (kW)        10348.4452     25482.7043
+
+Pipeline Section
+Length                    60.0000
+Total F_Loss              17.3900
+  Skin Friction            5.8297
+  Fittings Loss           10.0965
+  Expansion                1.4638
+  Contraction              0.0000
+Heat Loss (J/kg)        -163.4220
+gdz                        0.0000
+udu                        1.7179
+Total Loss               182.5299
+
+
+RIL506 False 892.908567189
+174.40501141
+# of Iterations =  3 738.534603812 738.405122437 174.36501141
+                   Inlet Node    Outlet Node
+               [     R506     ] [    R7A23     ]
+Pressure               0.8800         0.8669
+Temperature          174.4050       174.3650
+Mass Flow            126.1547       335.9819
+Diameter               0.3048         0.6096
+Velocity               1.9363         0.4841
+Reynolds Number   3389058.4611
+Enthalpy             738.5346       738.3588
+SpecificExergy       121.5203       121.4610
+Exergy (kW)        15330.3515     40808.6843
+
+Pipeline Section
+Length                    60.0000
+Total F_Loss              16.4264
+  Skin Friction            4.9534
+  Fittings Loss           10.0669
+  Expansion                1.4060
+  Contraction              0.0000
+Heat Loss (J/kg)        -129.4814
+gdz                        0.0000
+udu                        1.7575
+Total Loss               147.6652
+
+
+RIL508 False 898.101177481
+169.366498826
+# of Iterations =  5 716.432402209 716.251570416 169.306498826
+                   Inlet Node    Outlet Node
+               [     R508     ] [    R508X     ]
+Pressure               0.8800         1.0787
+Temperature          169.3665       169.3065
+Mass Flow             69.7442        69.7442
+Diameter               0.4064         0.2540
+Velocity               0.5987         1.5326
+Reynolds Number   1362173.6490
+Enthalpy             716.4324       716.1697
+SpecificExergy       114.1507       114.0641
+Exergy (kW)         7961.3488      7955.3140
+
+Pipeline Section
+Length                    37.0000
+Total F_Loss               0.3969
+  Skin Friction            0.2186
+  Fittings Loss            0.1183
+  Expansion                0.0000
+  Contraction              0.0601
+Heat Loss (J/kg)        -180.8318
+gdz                        0.0000
+udu                       -0.9952
+Total Loss               180.2335
+
+
+RIL508X7C22 False 898.162316905
+169.306498826
+# of Iterations =  3 716.169744543 716.050894355 169.266498826
+                   Inlet Node    Outlet Node
+               [    R508X     ] [    R7C22     ]
+Pressure               1.0787         1.1289
+Temperature          169.3065       169.2665
+Mass Flow             69.7442        69.7442
+Diameter               0.2540         0.6096
+Velocity               1.5325         0.2661
+Reynolds Number   2178657.3555
+Enthalpy             716.1697       715.9946
+SpecificExergy       114.0641       114.0065
+Exergy (kW)         7955.3140      7951.2919
+
+Pipeline Section
+Length                    37.0000
+Total F_Loss               4.1464
+  Skin Friction            2.4010
+  Fittings Loss            0.7750
+  Expansion                0.9704
+  Contraction              0.0000
+Heat Loss (J/kg)        -118.8502
+gdz                       58.8600
+udu                        1.1389
+Total Loss               182.9954
+
+
+RIL508X7C23 False 898.162316905
+169.306498826
+# of Iterations =  3 716.169744543 716.050894355 169.266498826
+                   Inlet Node    Outlet Node
+               [    R508X     ] [    R7C23     ]
+Pressure               1.0787         1.1289
+Temperature          169.3065       169.2665
+Mass Flow             69.7442         0.0000
+Diameter               0.2540         0.6096
+Velocity               1.5325         0.2661
+Reynolds Number   2178657.3555
+Enthalpy             716.1697       715.9946
+SpecificExergy       114.0641       114.0065
+Exergy (kW)         7955.3140         0.0000
+
+Pipeline Section
+Length                    37.0000
+Total F_Loss               4.1464
+  Skin Friction            2.4010
+  Fittings Loss            0.7750
+  Expansion                0.9704
+  Contraction              0.0000
+Heat Loss (J/kg)        -118.8502
+gdz                       58.8600
+udu                        1.1389
+Total Loss               182.9954
+
+
+RIL7A22 False 892.991921517
+174.32501141
+# of Iterations =  24 738.182954698 737.129472812 174.07501141
+                   Inlet Node    Outlet Node
+               [    R7A22     ] [    R7C22     ]
+Pressure               0.8730         0.9833
+Temperature          174.3250       174.0750
+Mass Flow            193.4260       263.1702
+Diameter               0.2540         0.6096
+Velocity               4.2747         0.7421
+Reynolds Number   6232475.4802
+Enthalpy             738.1830       737.0842
+SpecificExergy       121.4017       121.0314
+Exergy (kW)        23482.2399     31851.8474
+
+Pipeline Section
+Length                   879.0000
+Total F_Loss             454.3433
+  Skin Friction          432.8136
+  Fittings Loss           13.9792
+  Expansion                7.5505
+  Contraction              0.0000
+Heat Loss (J/kg)       -1053.4819
+gdz                      568.9800
+udu                        8.8613
+Total Loss              2085.6665
+
+
+RIL7A23 False 892.950248037
+174.36501141
+# of Iterations =  26 738.358776303 737.224720559 174.09501141
+                   Inlet Node    Outlet Node
+               [    R7A23     ] [    R7C23     ]
+Pressure               0.8669         1.4426
+Temperature          174.3650       174.0950
+Mass Flow            335.9819       335.9819
+Diameter               0.6096         0.6096
+Velocity               1.2892         1.2892
+Reynolds Number   4511863.5959
+Enthalpy             738.3588       737.1721
+SpecificExergy       121.4610       121.0610
+Exergy (kW)        40808.6843     40674.2873
+
+Pipeline Section
+Length                   742.0000
+Total F_Loss              12.5990
+  Skin Friction           12.0506
+  Fittings Loss            0.5484
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -1134.0557
+gdz                      657.2700
+udu                        0.0000
+Total Loss              1803.9248
+
+
+RIL7C22 False 893.252213902
+174.07501141
+# of Iterations =  60 737.084203263 734.486309415 173.46501141
+                   Inlet Node    Outlet Node
+               [    R7C22     ] [    R7H20     ]
+Pressure               0.9833         0.9472
+Temperature          174.0750       173.4650
+Mass Flow            263.1702       263.1702
+Diameter               0.6096         0.6096
+Velocity               1.0094         1.0094
+Reynolds Number   3527852.8075
+Enthalpy             737.0842       734.4042
+SpecificExergy       121.0314       120.1299
+Exergy (kW)        31851.8474     31614.6064
+
+Pipeline Section
+Length                  1334.0000
+Total F_Loss              20.7424
+  Skin Friction           13.4211
+  Fittings Loss            7.3214
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -2597.8938
+gdz                      -19.6200
+udu                        0.0000
+Total Loss              2599.0163
+
+
+RIL7C23 False 893.231401095
+174.09501141
+# of Iterations =  47 737.172094911 735.136925517 173.61501141
+                   Inlet Node    Outlet Node
+               [    R7C23     ] [    R7H20     ]
+Pressure               1.4426         1.4046
+Temperature          174.0950       173.6150
+Mass Flow            335.9819       599.1521
+Diameter               0.6096         0.6096
+Velocity               1.2888         1.2888
+Reynolds Number   4504457.1142
+Enthalpy             737.1721       735.0631
+SpecificExergy       121.0610       120.3513
+Exergy (kW)        40674.2873     72108.7175
+
+Pipeline Section
+Length                  1334.0000
+Total F_Loss              22.9234
+  Skin Friction           21.6528
+  Fittings Loss            1.2706
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -2035.1694
+gdz                      -19.6200
+udu                        0.0000
+Total Loss              2038.4728
+
+
+RIL7H22 False 893.730400933
+173.61501141
+# of Iterations =  30 735.063100554 733.750714266 173.30501141
+                   Inlet Node    Outlet Node
+               [    R7H20     ] [    R7RA22    ]
+Pressure               1.4046         1.7104
+Temperature          173.6150       173.3050
+Mass Flow            599.1521       299.5760
+Diameter               0.6096         0.6096
+Velocity               2.2969         2.2969
+Reynolds Number   8009257.8083
+Enthalpy             735.0631       733.7015
+SpecificExergy       120.3513       119.8939
+Exergy (kW)        72108.7175     35917.3469
+
+Pipeline Section
+Length                  1539.0000
+Total F_Loss              79.6757
+  Skin Friction           77.9346
+  Fittings Loss            1.7411
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -1312.3863
+gdz                      421.8300
+udu                        0.0000
+Total Loss              1813.8920
+
+
+RIL7H23 False 893.730400933
+173.61501141
+# of Iterations =  30 735.063100554 733.750714266 173.30501141
+                   Inlet Node    Outlet Node
+               [    R7H20     ] [    R7RA23    ]
+Pressure               1.4046         1.6780
+Temperature          173.6150       173.3050
+Mass Flow            599.1521       299.5760
+Diameter               0.6096         0.6096
+Velocity               2.2969         2.2969
+Reynolds Number   8009257.8083
+Enthalpy             735.0631       733.7015
+SpecificExergy       120.3513       119.8939
+Exergy (kW)        72108.7175     35917.3469
+
+Pipeline Section
+Length                  1539.0000
+Total F_Loss             115.8424
+  Skin Friction           77.9346
+  Fittings Loss           37.9078
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -1312.3863
+gdz                      421.8300
+udu                        0.0000
+Total Loss              1850.0587
+
+
+RIL7RA22 False 894.052109285
+173.30501141
+# of Iterations =  3 733.701489688 733.590863088 173.26501141
+                   Inlet Node    Outlet Node
+               [    R7RA22    ] [    R7RAX     ]
+Pressure               1.7104         1.7085
+Temperature          173.3050       173.2650
+Mass Flow            299.5760       299.5760
+Diameter               0.6096         0.6096
+Velocity               1.1481         1.1481
+Reynolds Number   3997045.8245
+Enthalpy             733.7015       733.5258
+SpecificExergy       119.8939       119.8350
+Exergy (kW)        35917.3469     35899.6848
+
+Pipeline Section
+Length                    65.0000
+Total F_Loss               2.0341
+  Skin Friction            0.8413
+  Fittings Loss            1.1928
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -110.6266
+gdz                        0.0000
+udu                        0.0000
+Total Loss               112.6607
+
+
+RIL7RA23 False 894.052109285
+173.30501141
+# of Iterations =  3 733.701489688 733.590863088 173.26501141
+                   Inlet Node    Outlet Node
+               [    R7RA23    ] [    R7RAX     ]
+Pressure               1.6780         1.6766
+Temperature          173.3050       173.2650
+Mass Flow            299.5760       599.1521
+Diameter               0.6096         0.6096
+Velocity               1.1481         1.1481
+Reynolds Number   3997045.8245
+Enthalpy             733.7015       733.5258
+SpecificExergy       119.8939       119.8350
+Exergy (kW)        35917.3469     71799.3697
+
+Pipeline Section
+Length                    65.0000
+Total F_Loss               1.5991
+  Skin Friction            0.8413
+  Fittings Loss            0.7579
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -110.6266
+gdz                        0.0000
+udu                        0.0000
+Total Loss               112.2257
+
+
+RIL7REX False 894.093587925
+173.26501141
+# of Iterations =  30 733.525823485 732.219930946 172.95501141
+                   Inlet Node    Outlet Node
+               [    R7RAX     ] [    R7REX     ]
+Pressure               1.6766         3.6992
+Temperature          173.2650       172.9550
+Mass Flow            599.1521       461.3471
+Diameter               0.6096         0.6096
+Velocity               2.2960         2.2960
+Reynolds Number   7992134.6801
+Enthalpy             733.5258       732.1646
+SpecificExergy       119.8350       119.3785
+Exergy (kW)        71799.3697     55074.9193
+
+Pipeline Section
+Length                  1535.0000
+Total F_Loss              82.4439
+  Skin Friction           77.6731
+  Fittings Loss            4.7709
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -1305.8925
+gdz                     2344.5900
+udu                        0.0000
+Total Loss              3732.9265
+
+
+RILPAL1RD False 894.093587925
+173.26501141
+# of Iterations =  4 733.525823485 733.388853648 173.21501141
+                   Inlet Node    Outlet Node
+               [    R7RAX     ] [  R7XPAL1RD   ]
+Pressure               1.6766         1.6666
+Temperature          173.2650       173.2150
+Mass Flow            599.1521        17.9746
+Diameter               0.6096         0.6096
+Velocity               2.2960         2.2960
+Reynolds Number   7992134.6801
+Enthalpy             733.5258       733.3062
+SpecificExergy       119.8350       119.7613
+Exergy (kW)        71799.3697      2152.6568
+
+Pipeline Section
+Length                   161.0000
+Total F_Loss              11.1780
+  Skin Friction            8.1468
+  Fittings Loss            3.0312
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -136.9698
+gdz                        0.0000
+udu                        0.0000
+Total Loss               148.1479
+
+
+RILPAL4RD False 894.093587925
+173.26501141
+# of Iterations =  2 733.525823485 733.456913194 173.23501141
+                   Inlet Node    Outlet Node
+               [    R7RAX     ] [  R7XPAL4RD   ]
+Pressure               1.6766         1.6687
+Temperature          173.2650       173.2350
+Mass Flow            599.1521         0.0000
+Diameter               0.6096         0.6096
+Velocity               2.2960         2.2960
+Reynolds Number   7992134.6801
+Enthalpy             733.5258       733.3941
+SpecificExergy       119.8350       119.7908
+Exergy (kW)        71799.3697         0.0000
+
+Pipeline Section
+Length                    81.0000
+Total F_Loss               8.8696
+  Skin Friction            4.0987
+  Fittings Loss            4.7709
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)         -68.9103
+gdz                        0.0000
+udu                        0.0000
+Total Loss                77.7799
+
+
+RILPAL5RD False 894.093587925
+173.26501141
+# of Iterations =  2 733.525823485 733.457763939 173.23501141
+                   Inlet Node    Outlet Node
+               [    R7RAX     ] [  R7XPAL5RD   ]
+Pressure               1.6766         1.6703
+Temperature          173.2650       173.2350
+Mass Flow            599.1521       119.8304
+Diameter               0.6096         0.6096
+Velocity               2.2960         2.2960
+Reynolds Number   7992134.6801
+Enthalpy             733.5258       733.3941
+SpecificExergy       119.8350       119.7908
+Exergy (kW)        71799.3697     14354.5763
+
+Pipeline Section
+Length                    80.0000
+Total F_Loss               7.0793
+  Skin Friction            4.0481
+  Fittings Loss            3.0312
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)         -68.0595
+gdz                        0.0000
+udu                        0.0000
+Total Loss                75.1389
+
+
+RILPAL6RD False 894.414798707
+172.95501141
+# of Iterations =  2 732.164607658 732.119403 172.92501141
+                   Inlet Node    Outlet Node
+               [    R7REX     ] [  R7XPAL6RD   ]
+Pressure               3.6992         3.7140
+Temperature          172.9550       172.9250
+Mass Flow            461.3471       346.0103
+Diameter               0.6096         0.6096
+Velocity               1.7673         1.7673
+Reynolds Number   6142265.2234
+Enthalpy             732.1646       732.0329
+SpecificExergy       119.3785       119.3344
+Exergy (kW)        55074.9193     41290.9186
+
+Pipeline Section
+Length                    41.0000
+Total F_Loss               3.0341
+  Skin Friction            1.2382
+  Fittings Loss            1.7959
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)         -45.2047
+gdz                       19.6200
+udu                        0.0000
+Total Loss                67.8588
+
+
+RILPAL7RD False 894.414798707
+172.95501141
+# of Iterations =  2 732.164607658 732.118300447 172.92501141
+                   Inlet Node    Outlet Node
+               [    R7REX     ] [  R7XPAL7RD   ]
+Pressure               3.6992         3.7131
+Temperature          172.9550       172.9250
+Mass Flow            461.3471       115.3368
+Diameter               0.6096         0.6096
+Velocity               1.7673         1.7673
+Reynolds Number   6142265.2234
+Enthalpy             732.1646       732.0329
+SpecificExergy       119.3785       119.3344
+Exergy (kW)        55074.9193     13763.6395
+
+Pipeline Section
+Length                    42.0000
+Total F_Loss               4.0950
+  Skin Friction            1.2684
+  Fittings Loss            2.8266
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)         -46.3072
+gdz                       19.6200
+udu                        0.0000
+Total Loss                70.0222
+
+
+STL5001 True 4.55544244659
+                   Inlet Node    Outlet Node
+               [     S501     ] [    S501X     ]
+Pressure               0.8800         0.8376
+Temperature          174.4050       172.3288
+Mass Flow             50.6437        50.4439
+Diameter               0.7366         0.7366
+Velocity              26.0880        26.0880
+Reynolds Number   5916899.7719
+Enthalpy            2772.1473      2770.1704
+SpecificExergy       800.3862       793.3728
+Exergy (kW)        40534.4874     40020.8356
+
+Pipeline Section
+Length                   500.0000
+Total F_Loss            3599.3256
+  Skin Friction         2649.9093
+  Fittings Loss          949.4163
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -6063.4724
+gdz                      362.9700
+udu                        0.0000
+Total Loss             10025.7679
+
+
+STL5002 True 4.55544244659
+                   Inlet Node    Outlet Node
+               [     S502     ] [    S502X     ]
+Pressure               0.8800         0.8126
+Temperature          174.4050       171.0633
+Mass Flow             26.8116        26.6502
+Diameter               0.7366         0.7366
+Velocity              13.8114        13.8114
+Reynolds Number   3132503.5239
+Enthalpy            2772.1473      2768.9409
+SpecificExergy       800.3862       789.0535
+Exergy (kW)        21459.6207     21028.4130
+
+Pipeline Section
+Length                   592.0000
+Total F_Loss            1594.7108
+  Skin Friction          905.1295
+  Fittings Loss          689.5813
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)      -13560.5014
+gdz                      362.9700
+udu                        0.0000
+Total Loss             15518.1823
+
+
+STL5003 True 4.55544244659
+                   Inlet Node    Outlet Node
+               [     S503     ] [    S503X     ]
+Pressure               0.8800         0.8241
+Temperature          174.4050       171.6464
+Mass Flow             39.3053        39.1059
+Diameter               0.7366         0.7366
+Velocity              20.2473        20.2473
+Reynolds Number   4592192.2657
+Enthalpy            2772.1473      2769.5097
+SpecificExergy       800.3862       791.0478
+Exergy (kW)        31459.4073     30934.6008
+
+Pipeline Section
+Length                   592.0000
+Total F_Loss            3390.9037
+  Skin Friction         1908.9232
+  Fittings Loss         1481.9805
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -9250.1176
+gdz                      362.9700
+udu                        0.0000
+Total Loss             13003.9913
+
+
+STL5004 True 4.55544244659
+                   Inlet Node    Outlet Node
+               [     S504     ] [    S504X     ]
+Pressure               0.8800         0.8381
+Temperature          174.4050       172.3510
+Mass Flow             42.2780        42.1092
+Diameter               0.7366         0.7366
+Velocity              21.7786        21.7786
+Reynolds Number   4939505.6526
+Enthalpy            2772.1473      2770.1918
+SpecificExergy       800.3862       793.4482
+Exergy (kW)        33838.7226     33411.4377
+
+Pipeline Section
+Length                   455.0000
+Total F_Loss            3044.0581
+  Skin Friction         1692.2784
+  Fittings Loss         1351.7796
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -6609.5748
+gdz                      451.2600
+udu                        0.0000
+Total Loss             10104.8928
+
+
+STL5005 True 4.55544244659
+                   Inlet Node    Outlet Node
+               [     S505     ] [    S505X     ]
+Pressure               0.8800         0.8369
+Temperature          174.4050       172.2941
+Mass Flow             51.1927        50.9834
+Diameter               0.7366         0.7366
+Velocity              26.3709        26.3709
+Reynolds Number   5981050.2231
+Enthalpy            2772.1473      2770.1369
+SpecificExergy       800.3862       793.2547
+Exergy (kW)        40973.9584     40442.8450
+
+Pipeline Section
+Length                   455.0000
+Total F_Loss            4444.9898
+  Skin Friction         2463.0346
+  Fittings Loss         1981.9551
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -5458.5785
+gdz                      451.2600
+udu                        0.0000
+Total Loss             10354.8282
+
+
+STL5006 True 4.55544244659
+                   Inlet Node    Outlet Node
+               [     S506     ] [    S506X     ]
+Pressure               0.8800         0.8315
+Temperature          174.4050       172.0232
+Mass Flow             49.8674        49.6391
+Diameter               0.7366         0.7366
+Velocity              25.6882        25.6882
+Reynolds Number   5826206.4501
+Enthalpy            2772.1473      2769.8752
+SpecificExergy       800.3862       792.3328
+Exergy (kW)        39913.1811     39330.6993
+
+Pipeline Section
+Length                   536.0000
+Total F_Loss            4527.6120
+  Skin Friction         2755.8308
+  Fittings Loss         1771.7812
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -6601.2249
+gdz                      490.5000
+udu                        0.0000
+Total Loss             11619.3369
+
+
+STL5008 True 4.0621955379
+                   Inlet Node    Outlet Node
+               [     S508     ] [    S508X     ]
+Pressure               0.7800         0.7773
+Temperature          169.3665       169.2260
+Mass Flow             33.5064        33.4904
+Diameter               0.7366         0.7366
+Velocity              19.3559        19.3559
+Reynolds Number   3960628.6464
+Enthalpy            2767.2636      2767.1232
+SpecificExergy       783.2093       782.7226
+Exergy (kW)        26242.5477     26213.6616
+
+Pipeline Section
+Length                    37.0000
+Total F_Loss             233.4048
+  Skin Friction          109.7696
+  Fittings Loss          123.6352
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -655.3168
+gdz                      235.4400
+udu                        0.0000
+Total Loss              1124.1616
+
+
+STL501X70A1 True 4.34669003785
+                   Inlet Node    Outlet Node
+               [    S501X     ] [    S70A1     ]
+Pressure               0.8376         0.8354
+Temperature          172.3288       172.2162
+Mass Flow             50.4439         0.0000
+Diameter               0.7366         1.0414
+Velocity              27.2331        13.6246
+Reynolds Number   5921858.9798
+Enthalpy            2770.1704      2770.0618
+SpecificExergy       793.3728       792.9899
+Exergy (kW)        40020.8356         0.0000
+
+Pipeline Section
+Length                    12.0000
+Total F_Loss             681.0447
+  Skin Friction           69.3011
+  Fittings Loss          426.4436
+  Expansion              185.3000
+  Contraction              0.0000
+Heat Loss (J/kg)        -144.0693
+gdz                       29.4300
+udu                      278.0050
+Total Loss              1132.5490
+
+
+STL501X70A2 True 4.34669003785
+                   Inlet Node    Outlet Node
+               [    S501X     ] [    S70A2     ]
+Pressure               0.8376         0.8354
+Temperature          172.3288       172.2162
+Mass Flow             50.4439        50.4186
+Diameter               0.7366         1.0414
+Velocity              27.2331        13.6246
+Reynolds Number   5921858.9798
+Enthalpy            2770.1704      2770.0618
+SpecificExergy       793.3728       792.9899
+Exergy (kW)        40020.8356     39981.4554
+
+Pipeline Section
+Length                    12.0000
+Total F_Loss             681.0447
+  Skin Friction           69.3011
+  Fittings Loss          426.4436
+  Expansion              185.3000
+  Contraction              0.0000
+Heat Loss (J/kg)        -144.0693
+gdz                       29.4300
+udu                      278.0050
+Total Loss              1132.5490
+
+
+STL502X70A1 True 4.22326141354
+                   Inlet Node    Outlet Node
+               [    S502X     ] [    S70A1     ]
+Pressure               0.8126         0.8108
+Temperature          171.0633       170.9696
+Mass Flow             26.6502         0.0000
+Diameter               0.7366         1.0414
+Velocity              14.8081         7.4084
+Reynolds Number   3137779.7580
+Enthalpy            2768.9409      2768.8491
+SpecificExergy       789.0535       788.7324
+Exergy (kW)        21028.4130         0.0000
+
+Pipeline Section
+Length                    12.0000
+Total F_Loss             274.3236
+  Skin Friction           21.0887
+  Fittings Loss          198.4477
+  Expansion               54.7872
+  Contraction              0.0000
+Heat Loss (J/kg)        -270.3545
+gdz                       29.4300
+udu                       82.1971
+Total Loss               656.3052
+
+
+STL502X70A2 True 4.22326141354
+                   Inlet Node    Outlet Node
+               [    S502X     ] [    S70A2     ]
+Pressure               0.8126         0.8111
+Temperature          171.0633       170.9853
+Mass Flow             26.6502        77.0622
+Diameter               0.7366         1.0414
+Velocity              14.8081         7.4084
+Reynolds Number   3137779.7580
+Enthalpy            2768.9409      2768.8645
+SpecificExergy       789.0535       788.7861
+Exergy (kW)        21028.4130     60785.5726
+
+Pipeline Section
+Length                    12.0000
+Total F_Loss             201.9615
+  Skin Friction           21.0887
+  Fittings Loss          126.0856
+  Expansion               54.7872
+  Contraction              0.0000
+Heat Loss (J/kg)        -270.3545
+gdz                       29.4300
+udu                       82.1971
+Total Loss               583.9431
+
+
+STL503X70A1 True 4.27977543011
+                   Inlet Node    Outlet Node
+               [    S503X     ] [    S70A1     ]
+Pressure               0.8241         0.8217
+Temperature          171.6464       171.5254
+Mass Flow             39.1059         0.0000
+Diameter               0.7366         1.0414
+Velocity              21.4421        10.7274
+Reynolds Number   4598086.2438
+Enthalpy            2769.5097      2769.3920
+SpecificExergy       791.0478       790.6347
+Exergy (kW)        30934.6008         0.0000
+
+Pipeline Section
+Length                    12.0000
+Total F_Loss             574.3526
+  Skin Friction           43.3935
+  Fittings Loss          416.0865
+  Expansion              114.8726
+  Contraction              0.0000
+Heat Loss (J/kg)        -184.9788
+gdz                       29.4300
+udu                      172.3431
+Total Loss               961.1046
+
+
+STL503X70A2 True 4.27977543011
+                   Inlet Node    Outlet Node
+               [    S503X     ] [    S70A2     ]
+Pressure               0.8241         0.8223
+Temperature          171.6464       171.5583
+Mass Flow             39.1059       116.1542
+Diameter               0.7366         1.0414
+Velocity              21.4421        10.7274
+Reynolds Number   4598086.2438
+Enthalpy            2769.5097      2769.4241
+SpecificExergy       791.0478       790.7472
+Exergy (kW)        30934.6008     91848.5964
+
+Pipeline Section
+Length                    12.0000
+Total F_Loss             422.6305
+  Skin Friction           43.3935
+  Fittings Loss          264.3643
+  Expansion              114.8726
+  Contraction              0.0000
+Heat Loss (J/kg)        -184.9788
+gdz                       29.4300
+udu                      172.3431
+Total Loss               809.3825
+
+
+STL504X70A1 True 4.3488791203
+                   Inlet Node    Outlet Node
+               [    S504X     ] [    S70A1     ]
+Pressure               0.8381         0.8358
+Temperature          172.3510       172.2347
+Mass Flow             42.1092        42.0912
+Diameter               0.7366         1.0414
+Velocity              22.7220        11.3677
+Reynolds Number   4943146.8563
+Enthalpy            2770.1918      2770.0796
+SpecificExergy       793.4482       793.0528
+Exergy (kW)        33411.4377     33380.5770
+
+Pipeline Section
+Length                    18.0000
+Total F_Loss             498.7310
+  Skin Friction           72.8703
+  Fittings Loss          296.8655
+  Expansion              128.9952
+  Contraction              0.0000
+Heat Loss (J/kg)        -258.9169
+gdz                       29.4300
+udu                      193.5311
+Total Loss               980.6089
+
+
+STL504X70A2 True 4.3488791203
+                   Inlet Node    Outlet Node
+               [    S504X     ] [    S70A2     ]
+Pressure               0.8381         0.8350
+Temperature          172.3510       172.1976
+Mass Flow             42.1092       116.1542
+Diameter               0.7366         1.0414
+Velocity              22.7220        11.3677
+Reynolds Number   4943146.8563
+Enthalpy            2770.1918      2770.0438
+SpecificExergy       793.4482       792.9265
+Exergy (kW)        33411.4377     92101.7306
+
+Pipeline Section
+Length                    18.0000
+Total F_Loss             669.1059
+  Skin Friction           72.8703
+  Fittings Loss          467.2405
+  Expansion              128.9952
+  Contraction              0.0000
+Heat Loss (J/kg)        -258.9169
+gdz                       29.4300
+udu                      193.5311
+Total Loss              1150.9839
+
+
+STL505X70A1 True 4.34326488675
+                   Inlet Node    Outlet Node
+               [    S505X     ] [    S70A1     ]
+Pressure               0.8369         0.8342
+Temperature          172.2941       172.1566
+Mass Flow             50.9834        93.0465
+Diameter               0.7366         1.0414
+Velocity              27.5461        13.7812
+Reynolds Number   5985674.9897
+Enthalpy            2770.1369      2770.0042
+SpecificExergy       793.2547       792.7870
+Exergy (kW)        40442.8450     73766.0762
+
+Pipeline Section
+Length                    18.0000
+Total F_Loss             732.1986
+  Skin Friction          106.3138
+  Fittings Loss          436.3014
+  Expansion              189.5834
+  Contraction              0.0000
+Heat Loss (J/kg)        -213.7667
+gdz                       29.4300
+udu                      284.4315
+Total Loss              1259.8269
+
+
+STL505X70A2 True 4.34326488675
+                   Inlet Node    Outlet Node
+               [    S505X     ] [    S70A2     ]
+Pressure               0.8369         0.8331
+Temperature          172.2941       172.1020
+Mass Flow             50.9834       116.1542
+Diameter               0.7366         1.0414
+Velocity              27.5461        13.7812
+Reynolds Number   5985674.9897
+Enthalpy            2770.1369      2769.9515
+SpecificExergy       793.2547       792.6013
+Exergy (kW)        40442.8450     92063.9586
+
+Pipeline Section
+Length                    18.0000
+Total F_Loss             982.5977
+  Skin Friction          106.3138
+  Fittings Loss          686.7005
+  Expansion              189.5834
+  Contraction              0.0000
+Heat Loss (J/kg)        -213.7667
+gdz                       29.4300
+udu                      284.4315
+Total Loss              1510.2260
+
+
+STL506X70B1 True 4.31662041241
+                   Inlet Node    Outlet Node
+               [    S506X     ] [    S70B1     ]
+Pressure               0.8315         0.8285
+Temperature          172.0232       171.8716
+Mass Flow             49.6391        49.6125
+Diameter               0.7366         1.0414
+Velocity              26.9853        13.5007
+Reynolds Number   5831501.1982
+Enthalpy            2769.8752      2769.7283
+SpecificExergy       792.3328       791.8161
+Exergy (kW)        39330.6993     39283.9440
+
+Pipeline Section
+Length                    14.0000
+Total F_Loss             800.2457
+  Skin Friction           79.4309
+  Fittings Loss          538.8718
+  Expansion              181.9430
+  Contraction              0.0000
+Heat Loss (J/kg)        -170.4516
+gdz                        0.0000
+udu                      272.9686
+Total Loss              1243.6659
+
+
+STL506X70B2 True 4.31662041241
+                   Inlet Node    Outlet Node
+               [    S506X     ] [    S70B2     ]
+Pressure               0.8315         0.8280
+Temperature          172.0232       171.8454
+Mass Flow             49.6391         0.0000
+Diameter               0.7366         1.0414
+Velocity              26.9853        13.5007
+Reynolds Number   5831501.1982
+Enthalpy            2769.8752      2769.7030
+SpecificExergy       792.3328       791.7269
+Exergy (kW)        39330.6993         0.0000
+
+Pipeline Section
+Length                    14.0000
+Total F_Loss             920.3995
+  Skin Friction           79.4309
+  Fittings Loss          659.0257
+  Expansion              181.9430
+  Contraction              0.0000
+Heat Loss (J/kg)        -170.4516
+gdz                        0.0000
+udu                      272.9686
+Total Loss              1363.8198
+
+
+STL508X70C1 True 4.04908101214
+                   Inlet Node    Outlet Node
+               [    S508X     ] [    S70C1     ]
+Pressure               0.7773         0.7754
+Temperature          169.2260       169.1228
+Mass Flow             33.4904         3.3480
+Diameter               0.7366         1.0414
+Velocity              19.4093         9.7104
+Reynolds Number   3960025.9303
+Enthalpy            2767.1232      2767.0200
+SpecificExergy       782.7226       782.3650
+Exergy (kW)        26213.6616      2619.3267
+
+Pipeline Section
+Length                     9.0000
+Total F_Loss             461.9054
+  Skin Friction           26.8484
+  Fittings Loss          340.9327
+  Expansion               94.1243
+  Contraction              0.0000
+Heat Loss (J/kg)        -159.3227
+gdz                        0.0000
+udu                      141.2144
+Total Loss               762.4425
+
+
+STL508X70C2 True 4.04908101214
+                   Inlet Node    Outlet Node
+               [    S508X     ] [    S70C2     ]
+Pressure               0.7773         0.7754
+Temperature          169.2260       169.1228
+Mass Flow             33.4904        30.1316
+Diameter               0.7366         1.0414
+Velocity              19.4093         9.7104
+Reynolds Number   3960025.9303
+Enthalpy            2767.1232      2767.0200
+SpecificExergy       782.7226       782.3650
+Exergy (kW)        26213.6616     23573.9403
+
+Pipeline Section
+Length                     9.0000
+Total F_Loss             461.9054
+  Skin Friction           26.8484
+  Fittings Loss          340.9327
+  Expansion               94.1243
+  Contraction              0.0000
+Heat Loss (J/kg)        -159.3227
+gdz                        0.0000
+udu                      141.2144
+Total Loss               762.4425
+
+
+STL70A1 True 4.32972652732
+                   Inlet Node    Outlet Node
+               [    S70A1     ] [    S70B1     ]
+Pressure               0.8342         0.8292
+Temperature          172.1566       171.9048
+Mass Flow             93.0465       142.6165
+Diameter               1.0414         1.0414
+Velocity              25.2298        25.2298
+Reynolds Number   7729235.0422
+Enthalpy            2770.0042      2769.7606
+SpecificExergy       792.7870       791.9296
+Exergy (kW)        73766.0762    112942.2037
+
+Pipeline Section
+Length                    55.0000
+Total F_Loss             668.7195
+  Skin Friction          181.7624
+  Fittings Loss          486.9571
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -497.9710
+gdz                        9.8100
+udu                        0.0000
+Total Loss              1176.5005
+
+
+STL70A2 True 4.32436313844
+                   Inlet Node    Outlet Node
+               [    S70A2     ] [    S70B2     ]
+Pressure               0.8331         0.8269
+Temperature          172.1020       171.7904
+Mass Flow            116.1542       116.0888
+Diameter               1.0414         1.0414
+Velocity              31.5346        31.5346
+Reynolds Number   9649972.0464
+Enthalpy            2769.9515      2769.6496
+SpecificExergy       792.6013       791.5394
+Exergy (kW)        92063.9586     91888.8857
+
+Pipeline Section
+Length                    55.0000
+Total F_Loss            1042.4892
+  Skin Friction          281.7482
+  Fittings Loss          760.7409
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)        -398.7570
+gdz                        9.8100
+udu                        0.0000
+Total Loss              1451.0561
+
+
+STL70B1 True 4.30502243035
+                   Inlet Node    Outlet Node
+               [    S70B1     ] [    S70C1     ]
+Pressure               0.8292         0.8127
+Temperature          171.9048       171.0679
+Mass Flow            142.6165       145.7297
+Diameter               1.0414         1.0414
+Velocity              38.8928        38.8928
+Reynolds Number  11853842.2915
+Enthalpy            2769.7606      2768.9454
+SpecificExergy       791.9296       789.0693
+Exergy (kW)       112942.2037    114990.8185
+
+Pipeline Section
+Length                   257.0000
+Total F_Loss            2489.4412
+  Skin Friction         1990.2666
+  Fittings Loss          499.1746
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -1515.5186
+gdz                      176.5800
+udu                        0.0000
+Total Loss              4181.5398
+
+
+STL70B2 True 4.29383222661
+                   Inlet Node    Outlet Node
+               [    S70B2     ] [    S70C2     ]
+Pressure               0.8269         0.8125
+Temperature          171.7904       171.0591
+Mass Flow            116.0888       146.0507
+Diameter               1.0414         1.0414
+Velocity              31.7410        31.7410
+Reynolds Number   9651503.0852
+Enthalpy            2769.6496      2768.9368
+SpecificExergy       791.5394       789.0392
+Exergy (kW)        91888.8857    115239.7382
+
+Pipeline Section
+Length                   257.0000
+Total F_Loss            1666.2841
+  Skin Friction         1333.8124
+  Fittings Loss          332.4717
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)       -1860.3821
+gdz                      176.5800
+udu                        0.0000
+Total Loss              3703.2462
+
+
+STL70IF1 True 4.22370624036
+                   Inlet Node    Outlet Node
+               [    S70C1     ] [    S70IF1    ]
+Pressure               0.8127         0.6540
+Temperature          171.0679       162.2288
+Mass Flow            145.7297       143.7559
+Diameter               1.0414         1.0414
+Velocity              40.5069        40.5069
+Reynolds Number  12136121.4686
+Enthalpy            2768.9454      2759.8564
+SpecificExergy       789.0693       757.9544
+Exergy (kW)       114990.8185    108960.3922
+
+Pipeline Section
+Length                  1811.0000
+Total F_Loss           26992.4334
+  Skin Friction        15203.2071
+  Fittings Loss        11789.2263
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)      -10391.7094
+gdz                     -196.2000
+udu                        0.0000
+Total Loss             37187.9428
+
+
+STL70IF2 True 4.22285701298
+                   Inlet Node    Outlet Node
+               [    S70C2     ] [    S70IF2    ]
+Pressure               0.8125         0.6534
+Temperature          171.0591       162.1931
+Mass Flow            146.0507       144.0673
+Diameter               1.0414         1.0414
+Velocity              40.6043        40.6043
+Reynolds Number  12163106.2416
+Enthalpy            2768.9368      2759.8180
+SpecificExergy       789.0392       757.8255
+Exergy (kW)       115239.7382    109177.9063
+
+Pipeline Section
+Length                  1811.0000
+Total F_Loss           27121.4750
+  Skin Friction        15275.4845
+  Fittings Loss        11845.9905
+  Expansion                0.0000
+  Contraction              0.0000
+Heat Loss (J/kg)      -10368.2412
+gdz                     -196.2000
+udu                        0.0000
+Total Loss             37293.5162
+
+
+          0.002868007145475173
+2759.5950361387345 6.732103638809531
+306.3233808143922 14274.669545950675
+2600.4304108866704 7.986839903989945 328.3328322561139
+steam 2767.263588511444 6.670177377470685 442.51649882593074
+brine 809.9841392137783 2.2409616489029256 190.54211565484945
